@@ -112,7 +112,7 @@ window.LES_SUGGESTIES = {
   // 2B · Informatiegeletterdheid · 8.2.GL5.6
   "5de-leerjaar_8-2-GL5-6": "Een website beoordelen met drie vragen: geeft ze antwoord op mijn vraag? Begrijp ik de tekst? Gaat ze echt over mijn onderwerp?",
   // 3A · Digitale veiligheid · 8.3.GL5.4
-  "5de-leerjaar_8-3-GL5-4": "Tijdens de Week tegen Pesten een klasgesprek over cyberpesten: wat doe je als het jou of een klasgenoot overkomt, en bij wie kan je terecht? Lesmateriaal van Mediawijs: Kritikat (https://www.mediawijs.be/nl/kritikat), HoeZoo (https://www.mediawijs.be/nl/hoezoo), Is het echt zo? (https://www.mediawijs.be/nl/tools/het-echt-zo).",
+  "5de-leerjaar_8-3-GL5-4": "Tijdens de Week tegen Pesten een klasgesprek over cyberpesten: wat doe je als het jou of een klasgenoot overkomt, en bij wie kan je terecht? Lesmateriaal van Mediawijs: Kritikat (https://www.mediawijs.be/nl/kritikat), HoeZoo (https://www.mediawijs.be/nl/hoezoo), Is het echt zo? (https://www.mediawijs.be/nl/tools/het-echt-zo).Strip met lespakket voor het 5de en 6de leerjaar: Ella de cyberheldin (https://www.deloitte.com/content/dam/assets-zone2/be/en/docs/about/2023/be-ella-the-cyberhero-toolkit-nl.pdf).",
   // 3B · Auteurs- en portretrecht · 8.3.GL5.1, 8.3.GL5.2, 8.3.GL5.3
   "5de-leerjaar_8-3-GL5-1": "Twee situaties bespreken: mag ik een afbeelding uit een zoekmachine zomaar in mijn PowerPoint zetten (auteursrecht)? Mag ik een foto van een klasgenoot doorsturen zonder het te vragen (portretrecht)?",
   // 3C · Communiceren · 8.4.GL5.1
