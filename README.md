@@ -2,7 +2,7 @@
 
 Doorlopende leerlijnen ICT van de 2de kleuter tot het 6de leerjaar voor de scholen van Scholengroep Sint-Rembert.
 
-- **Live:** https://rembertbasisict.github.io/leerlijnenICT/
+- **Live:** https://rembertbasisict.github.io/leerlijnenICT-Sint-Rembert-BaO
 - **Bronnen:** de 86 leerplandoelen ICT van Op.stap (leerplanversie V1.3, 15/10/2026), de Leerlijn mediawijsheid van Mediawijs, de minimumdoelen ICT (Onderwijsdoelen – Lager onderwijs, versie 2.0) en de schooleigen AI-leerlijn van de scholengroep.
 - **Contact:** basis.ict.pedagogisch@sint-rembert.be
 
